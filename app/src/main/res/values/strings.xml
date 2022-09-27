@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookSearch</string>
+    <string name="find_books">Find books!</string>
+    <string name="label_search_books">Search book titles</string>
+    <string name="placeholder_search_books">Enter any title keyword</string>
+    <string name="empty_string_toast_message">Please enter a keyword to search</string>
+    <string name="no_books_found_message">No books found</string>
+    <string name="book_loading_error">Could not load books list</string>
+    <string name="books_list_exception">The request failed. Please try again</string>
+</resources>
